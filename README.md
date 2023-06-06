@@ -5,10 +5,13 @@
 <br/>
 <h3><div align=center> :raising_hand: About Me  </div> </h3>
 <br/>
+
 <div align=center> Hello! I'm a junior student of Kyung Hee University, <br/> double majoring <b> Electronic Engineering</b> and <b> Software Convergence (Robot Vision Track)</b>.<br/>
 <br/>
 I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> autonomous driving technology🚙</b><br/>
 </b><br/></div>
+
+<div align=center>Here's my <a href="https://zzziito.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website] 😁 </div>
 
 <br/><br/>
 <h3><div align=center>:star2: I've Used  </div> </h3>
