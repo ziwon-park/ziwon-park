@@ -22,9 +22,7 @@ I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything r
   <img src="https://img.shields.io/badge/Matlab-3776AB?style=flat&logo=Matlab&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat&logo=PytorchLightning&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />  
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
 </div>
