@@ -6,7 +6,7 @@
 <h3><div align=center> :raising_hand: About Me  </div> </h3>
 <br/>
 
-<div align=center> Hello! I'm a junior student of Kyung Hee University, <br/> double majoring <b> Electronic Engineering</b> and <b> Software Convergence (Robot Vision Track)</b>.<br/>
+<div align=center> Hello! I'm a senior student of Kyung Hee University, <br/> double majoring <b> Electronic Engineering</b> and <b> Software Convergence (Robot Vision Track)</b>.<br/>
 <br/>
 I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> autonomous driving technology🚙</b><br/>
 </b><br/></div>
