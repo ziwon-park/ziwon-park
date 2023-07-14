@@ -38,7 +38,7 @@ I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything r
 <h3><div align=center>
 :sparkles: Find me  </div> </h3>
 <div align=center>
-<a href="https://velog.io/@se0yeon00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@zzziito"/></a>
+<a href="https://zzziito.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F35607?style=flat&logo=Tistory&logoColor=white&link=https://zzziito.tistory.com/"/></a>
 <a href="https://www.youtube.com/@user-us7ki6ur2c"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Velog&logoColor=white&link=https://www.youtube.com/channel/UCZRyhs-Cfd2cjBl9NM06Q_Q"/></a> 
 </div>
 <br/><br/>
