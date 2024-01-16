@@ -8,7 +8,7 @@
 
 <div align=center> Hello! I'm a senior student of Kyung Hee University, <br/> double majoring <b> Electronic Engineering</b> and <b> Software Convergence (Robot Vision Track)</b>.<br/>
 <br/>
-I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> autonomous driving technology🚙</b><br/>
+I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> AI & Robotics 🫶</b><br/>
 </b><br/></div>
 
 <div align=center>Here's my <a href="https://zzziito.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website] 😁 </div>
