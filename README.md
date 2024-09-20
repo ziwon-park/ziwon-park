@@ -6,9 +6,9 @@
 <h3><div align=center> :raising_hand: About Me  </div> </h3>
 <br/>
 
-<br/>
+<div align=center>
 I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> AI & Robotics 🫶</b><br/>
-</b><br/></div>
+<br/></div>
 
 <div align=center>Here's my <a href="https://ziwon-park.com/" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website] 😁 </div>
 
