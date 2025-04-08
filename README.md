@@ -7,7 +7,7 @@
 <br/>
 
 <div align=center>
-I am very interested in SLAM, Sensor Data Processing, ROS and <br/> everything related to <b> AI & Robotics 🫶</b><br/>
+I am very interested in Navigation, Sensor Data Processing, ROS and <br/> everything related to <b> AI & Robotics 🫶</b><br/>
 <br/></div>
 
 <div align=center>Here's my <a href="https://ziwon-park.com/" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website : https://ziwon-park.com/] 😁 </div>
