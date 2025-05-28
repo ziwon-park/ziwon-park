@@ -38,7 +38,7 @@ I am very interested in Navigation, Sensor Data Processing, ROS and <br/> everyt
 :sparkles: Find me  </div> </h3>
 <div align=center>
 <a href="https://zzziito.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F35607?style=flat&logo=Tistory&logoColor=white&link=https://zzziito.tistory.com/"/></a>
-<a href="https://www.youtube.com/@zzziito"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZRyhs-Cfd2cjBl9NM06Q_Q"/></a> 
+<a href="https://www.youtube.com/@ziwon-park"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZRyhs-Cfd2cjBl9NM06Q_Q"/></a> 
 </div>
 <br/><br/>
 <h3><div align=center>:email: Contact me </h3></div>
