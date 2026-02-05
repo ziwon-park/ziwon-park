@@ -1,46 +1,53 @@
- <div align=center>
- <h1> Jiwon Park </h1>
-</div>
+### Hi there 👋 I'm Jiwon Park 
 
-<br/>
-<h3><div align=center> :raising_hand: About Me  </div> </h3>
-<br/>
+[🌐 Website](https://ziwon-park.com/) ·
+[🎥 YouTube](https://www.youtube.com/@ziwon-park) ·
+[✍️ Blog](https://zzziito.tistory.com) ·
+[💻 GitHub](https://github.com/zzziito)
 
-<div align=center>
-I am very interested in Navigation, Sensor Data Processing, ROS and <br/> everything related to <b> AI & Robotics 🫶</b><br/>
-<br/></div>
+#
+- 🔭 M.S. student in the Robotics Program at KAIST, focusing on autonomous navigation for quadruped robots
+- 🌱 Currently interested in Generative Models, Neural Mapping, 3D Vision, and Mobile Robot Navigation
+- 🧑‍🎓 Education
+    - M.S. in Robotics, KAIST (Mar. 2025 – Current)
+    - B.S. in Electronic Engineering & Software Convergence (Robot Vision Track), Kyung Hee University (Aug. 2024)
+#
+- 📚 Publications
+    - DreamFlow: Local Navigation Beyond Observation via Conditional Flow Matching in the Latent Space  
+      IEEE International Conference on Robotics & Automation (ICRA), 2026  
+      Jiwon Park*, Dongkyu Lee*, I Made Aswin Nahrendra, Jaeyoung Lim, Hyun Myung
+    - BumpyPatch: Heightmap-based Outdoor Point Cloud Segmentation to Find Less Bumpy Road  
+      IEEE International Conference on Robotic Computing (IRC), 2023  
+      Jiwon Park, Hyoseok Hwang
 
-<div align=center>Here's my <a href="https://ziwon-park.com/" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website : https://ziwon-park.com/] 😁 </div>
+#
+- 🧑‍💻 Work Experience
+    - Research Intern, NAVER LABS  
+      (Mar. 2024 – Sep. 2024, Autonomous Navigation & Robot Software)
+        - Developed inference-board software to enhance on-board robot processing
+        - Optimized deep learning models for low-cost NPUs
+        - Integrated heterogeneous robots into multi-robot intelligence systems (ARC)
+        - Built monitoring applications for large-scale robot experiments
+    - Research Intern, ROBROS  
+      (Dec. 2023 – Feb. 2024, Robot Learning & Simulation)
+        - Built robotic arm simulation environments using MuJoCo
+        - Proposed transformer-based collision detection using joint torque/position signals
+    - Student Intern, Purdue University  
+      (Apr. 2022 – Aug. 2022, Visual SLAM)
+        - Conducted research on outdoor mobile visual SLAM
+        - Improved robustness and accuracy of vision-based navigation systems
 
-<br/><br/>
-<h3><div align=center>:star2: I've Used  </div> </h3>
+#
+- 🤖 Competitions & Achievements
+    - 🥈 2nd Place, Quadruped Robot Challenges (QRC), ICRA 2025
+    - 🏆 SW Festival Grand Prize, Kyung Hee University (2022)
+    - 🏆 World Embedded Software Contest, Participation Award (2021)
+    - 🏆 Autonomous Mini-Drone Competition, Excellence Prize (2020)
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-3776AB?style=flat&logo=Matlab&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />  
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
-</div>
+#
+- 🌍 Languages
+    - Korean (Native)
+    - English (Proficient, TOEIC 945)
 
-<br/><br/>
-<h3><div align=center>:pencil: Currently Studying </div> </h3>
-<div align="center">
-	<img src="https://img.shields.io/badge/-Deep%20Learning-red" />
-  <img src="https://img.shields.io/badge/-Robotics-orange"/>
-  <img src="https://img.shields.io/badge/-Computer%20Vision-yellow"/>
-</div>
-
-<br/><br/>
-<h3><div align=center>
-:sparkles: Find me  </div> </h3>
-<div align=center>
-<a href="https://zzziito.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F35607?style=flat&logo=Tistory&logoColor=white&link=https://zzziito.tistory.com/"/></a>
-<a href="https://www.youtube.com/@ziwon-park"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZRyhs-Cfd2cjBl9NM06Q_Q"/></a> 
-</div>
-<br/><br/>
-<h3><div align=center>:email: Contact me </h3></div>
-<div align=center> <a href="mailto:overflow21@khu.ac.kr"><img src="https://img.shields.io/badge/Email-0072EF?style=flat&logo=Gmail&logoColor=white&link=mailto:overflow21@khu.ac.kr"/></a>
-</div>
+> 📍 Yongin-si, Republic of Korea  
+> 📧 ziwon@kaist.ac.kr
