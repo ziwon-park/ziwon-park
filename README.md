@@ -22,7 +22,7 @@
 
 #
 - 🧑‍💻 Work Experience
-    - Research Intern, NAVER LABS  
+    - Intern, NAVER LABS  
       (Mar. 2024 – Sep. 2024, Autonomous Navigation & Robot Software)
         - Developed inference-board software to enhance on-board robot processing
         - Optimized deep learning models for low-cost NPUs
